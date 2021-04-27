@@ -4,5 +4,6 @@ public class Hello {
         System.out.println("おはよう");
         System.out.println("太郎");
         System.out.println("うんこ");
+        System.out.println("山田");
     }
 }
