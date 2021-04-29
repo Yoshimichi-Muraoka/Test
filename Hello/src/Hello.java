@@ -5,5 +5,6 @@ public class Hello {
         System.out.println("本田");
         System.out.println("宇佐美");
         System.out.println("香川");
+        System.out.println("久保");
     }
 }
