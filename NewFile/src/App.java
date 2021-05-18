@@ -16,6 +16,11 @@ public class App {
         System.out.println("Hello, World!");
         App app = new App();
         app.method2();
+        String array[][] = { {"A","B"},{null},{"C","D"}};
+        for (String[] tmp : array) {
+            System.out.println(tmp.length);
+
+        }
 
     }
 }
